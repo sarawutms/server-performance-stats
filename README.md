@@ -1,6 +1,6 @@
 # 🚀 Server Stats Monitoring Script
 
-🔗 **Project URL:** [https://github.com/sarawutms/server-performance-stats](https://roadmap.sh/projects/server-stats)
+🔗 **Project URL:** [Server Performance Stats](https://roadmap.sh/projects/server-stats)
 
 ## 📌 Description
 
