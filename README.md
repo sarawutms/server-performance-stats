@@ -1,8 +1,12 @@
 # 🚀 Server Stats Monitoring Script
 
-A lightweight Bash script to analyze basic server performance statistics on any Linux machine.
+🔗 Project URL: https://github.com/sarawutms/server-performance-stats
 
-## 📌 Features
+##📌 Description
+
+A lightweight Bash script to analyze basic server performance statistics on any Linux system.
+
+## 📊 Features
 
 * ✅ Uptime (human-readable)
 * ✅ CPU Usage (percentage)
