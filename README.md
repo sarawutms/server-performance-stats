@@ -2,7 +2,7 @@
 
 🔗 Project URL: https://github.com/sarawutms/server-performance-stats
 
-##📌 Description
+## 📌 Description
 
 A lightweight Bash script to analyze basic server performance statistics on any Linux system.
 
