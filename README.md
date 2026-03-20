@@ -4,10 +4,10 @@ A lightweight Bash script to analyze basic server performance statistics on any 
 
 ## 📌 Features
 
+* ✅ Uptime (human-readable)
 * ✅ CPU Usage (percentage)
 * ✅ Memory Usage (used / total + percentage)
 * ✅ Disk Usage (root partition)
-* ✅ Uptime (human-readable)
 * ✅ Top 5 processes by CPU usage
 * ✅ Top 5 processes by Memory usage
 
@@ -74,10 +74,10 @@ Run the script:
 
 The script collects system data using standard Linux commands:
 
+* `uptime` → system uptime
 * `top` → CPU usage
 * `free` → memory stats
 * `df` → disk usage
 * `ps` → running processes
-* `uptime` → system uptime
 
 Data is processed using `awk` and `sed` for formatting.
