@@ -2,8 +2,6 @@
 
 A lightweight Bash script to analyze basic server performance statistics on any Linux machine.
 
----
-
 ## 📌 Features
 
 * ✅ CPU Usage (percentage)
@@ -12,8 +10,6 @@ A lightweight Bash script to analyze basic server performance statistics on any 
 * ✅ Uptime (human-readable)
 * ✅ Top 5 processes by CPU usage
 * ✅ Top 5 processes by Memory usage
-
----
 
 ## 🖥️ Preview
 
@@ -51,8 +47,6 @@ Top 5 Memory Processes:
 
 > 💡 Most Linux systems already include these tools.
 
----
-
 ## 📦 Installation
 
 Clone the repository:
@@ -68,8 +62,6 @@ Make the script executable:
 chmod +x server-stats.sh
 ```
 
----
-
 ## ▶️ Usage
 
 Run the script:
@@ -77,8 +69,6 @@ Run the script:
 ```bash
 ./server-stats.sh
 ```
-
----
 
 ## 🧠 How It Works
 
@@ -91,21 +81,3 @@ The script collects system data using standard Linux commands:
 * `uptime` → system uptime
 
 Data is processed using `awk` and `sed` for formatting.
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Developed by **Sarawut**
-
----
-
-## ⭐ Support
-
-If you find this useful, consider giving it a ⭐ on GitHub!
